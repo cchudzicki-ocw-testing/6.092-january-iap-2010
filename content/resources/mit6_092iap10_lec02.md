@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: More types, Methods, Conditionals'
 uid: 681c9db7-95b4-8f68-b58e-45210620dae4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

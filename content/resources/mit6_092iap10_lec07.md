@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7: Review, Exceptions, IO'
 uid: f04b8fe3-2c4c-d8c0-cb06-43937e1f6b5d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

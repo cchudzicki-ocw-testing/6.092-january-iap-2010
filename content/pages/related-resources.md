@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 15c81cee-0fc0-5bfb-1137-b87b66aed50b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

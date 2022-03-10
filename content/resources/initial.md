@@ -16,4 +16,8 @@ parent_type: CourseSection
 resourcetype: Image
 title: initial
 uid: cbc6b7f3-3feb-3027-cd1f-c022aaad79ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

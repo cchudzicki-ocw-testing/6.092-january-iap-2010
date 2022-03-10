@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 1: Types, Variables, Operators'
 uid: 4fb0ecc5-98d0-7781-7cd2-7eeb30a7882a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

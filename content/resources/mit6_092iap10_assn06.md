@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment 6: Graphics strikes back!'
 uid: 7b8004fe-d9d8-7169-3414-e98559ac7b83
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: assn06
 uid: a1b63d3f-71d6-daa2-39fd-03ac592f2952
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

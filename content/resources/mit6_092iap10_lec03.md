@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: Loops,  Arrays'
 uid: 5b55c703-cbb7-ada8-d1bd-72e58a1b4fbf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

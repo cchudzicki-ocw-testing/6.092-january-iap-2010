@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 5: Access Control, Class Scope, Packages, Java API'
 uid: ae507b63-8374-a092-cf86-3e83bde05bad
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

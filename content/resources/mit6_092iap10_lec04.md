@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4: Classes and Objects'
 uid: e95ec6cf-928f-0825-9a01-bda319484655
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

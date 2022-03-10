@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Assignment 7: Magic Squares!'
 uid: e217df88-ea26-9c25-ac33-3c7370286a4e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

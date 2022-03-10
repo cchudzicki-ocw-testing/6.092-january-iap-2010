@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Assignment 2
 uid: 34c78de4-06d2-935f-4b23-c8149111a81a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

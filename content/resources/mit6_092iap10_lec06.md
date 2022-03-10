@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 6: Design, Debugging, Interfaces'
 uid: 2405ab6d-f66c-95de-7bb9-56f9b3329677
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
